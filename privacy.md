@@ -19,11 +19,8 @@ The app does not require/collect user's location information.
 ### Device Information  
 We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
-### Service Providers  
--
-
 ### Security  
- -
+This app does not make any transaction nor it store credentials.
 
 ### Children’s Privacy  
 This is useably by all age categories.  
